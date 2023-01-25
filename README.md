@@ -14,3 +14,4 @@ Executar as actividades que fazem parte do arquivo P2foto, com as suas funcional
 Exemplo, 
 Actividade Login,
 Actividade Registrar novo usuario entre outras actividades que fazem parte do projecto.
+
